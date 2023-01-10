@@ -4,7 +4,14 @@ Datasets are extracted using Web Scraping, Modified using Pandas and with the He
 Step by Step Project Execution:-
 
 -Json files are our DataSets (: are Extracted using Web Scrapping)
+
+
 -We need to convert into csv files to create Dashboard using PowerBI
+
+
 -Data Modeling and Data Transformation using  Pandas, Python and Output are stored as CSV files
+
+
 -Using Dashboard Requirements PDF, we performed Data Modeling and created DAX formulas and Finally Visualised the requirements  
- 
+
+
